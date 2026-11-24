@@ -41,13 +41,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/albrecht-thcerbla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="albrecht-thcerbla" height="30" width="40" /></a>
+<a href="https://github.com/kurumi-imuruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="albrecht-thcerbla" height="30" width="40" /></a>
 <a href="https://fb.com/unknown04022007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unknown04022007" height="30" width="40" /></a>
-<a href="https://twitter.com/albrecht_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albrecht_dev" height="30" width="40" /></a>
 <a href="https://hackerrank.com/albrecht_maimai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="albrecht_maimai" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/albrecht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="albrecht" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/albrecht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="albrecht" height="30" width="40" /></a>
-<a href="https://discord.gg/albrecht_maimai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="albrecht_maimai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
